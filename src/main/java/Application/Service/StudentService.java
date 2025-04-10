@@ -63,8 +63,7 @@ public class StudentService {
 
     /**
      * TODO: Provided the Id of an already existing student entity, return its assigned classroom by retrieving
-     * the 'classroom' field of student. Don't forget to save the changes made to your student entity via the
-     * studentRepository so that the update is sent to the database.
+     * the 'classroom' field of student. 
      * @param studentId Id of a persisted, existing student entity
      * @return the Classroom of the student
      */
