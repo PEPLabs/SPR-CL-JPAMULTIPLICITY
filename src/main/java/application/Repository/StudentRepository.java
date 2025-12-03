@@ -1,6 +1,6 @@
-package Application.Repository;
+package application.Repository;
 
-import Application.Model.Student;
+import application.Model.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

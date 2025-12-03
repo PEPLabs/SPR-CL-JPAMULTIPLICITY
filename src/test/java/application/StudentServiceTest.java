@@ -1,8 +1,10 @@
-import Application.Model.Classroom;
-import Application.Model.Student;
-import Application.Repository.ClassroomRepository;
-import Application.Repository.StudentRepository;
-import Application.Service.StudentService;
+package application;
+
+import application.Model.Classroom;
+import application.Model.Student;
+import application.Repository.ClassroomRepository;
+import application.Repository.StudentRepository;
+import application.Service.StudentService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;

@@ -1,8 +1,8 @@
-package Application.Service;
+package application.Service;
 
-import Application.Model.Classroom;
-import Application.Model.Student;
-import Application.Repository.ClassroomRepository;
+import application.Model.Classroom;
+import application.Model.Student;
+import application.Repository.ClassroomRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

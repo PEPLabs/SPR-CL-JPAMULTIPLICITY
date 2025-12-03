@@ -1,10 +1,9 @@
-package Application;
+package application;
 
-import Application.Model.Classroom;
-import Application.Model.Student;
-import Application.Repository.ClassroomRepository;
-import Application.Service.ClassroomService;
-import Application.Service.StudentService;
+import application.Model.Classroom;
+import application.Model.Student;
+import application.Service.ClassroomService;
+import application.Service.StudentService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

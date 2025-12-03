@@ -1,4 +1,4 @@
-package Application.Model;
+package application.Model;
 
 import lombok.*;
 
